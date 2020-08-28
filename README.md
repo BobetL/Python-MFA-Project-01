@@ -7,7 +7,7 @@ To run this file needs numpy, matplotlib, ODYM and plotly.
 
 -----------------------------------------------------------------
 
-Deg_func.py is based on the paper of Schimpe. M et al., 2018, about NCM lithium-ion batteries' lifespan simulations.
+deg_func.py is based on the paper of Schimpe. M et al., 2018, about NCM lithium-ion batteries' lifespan simulations.
 
 To run this file needs numpy.
 
