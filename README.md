@@ -1,7 +1,7 @@
 # Python-MFA-Project-01
 This is a storehouse of my project files.
 -----------------------------------------------------------------
-ReplayBobba.py is based on the paper of Bobba et al., 2019, about lithium-ion batteries' material flow in the european market.
+LIB_MFA_EU.py is based on the paper of Bobba et al., 2019, about lithium-ion batteries' material flow in the european market.
 
 To run this file needs numpy, pandas, matplotlib, ODYM and plotly.
 
